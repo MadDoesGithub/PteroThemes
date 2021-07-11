@@ -41,7 +41,7 @@ After this build the panel, read below.
 After that just reload your panel and the theme is applied.
 
 # Building Panel
-#Install Dependencies
+## Install Dependencies
 The following commands will install the necessary dependencies for building your panel.
 
 # Install NodeJS
