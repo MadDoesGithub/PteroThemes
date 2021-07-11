@@ -13,7 +13,11 @@ Simple! Just follow the instructions below, mainly consisting of two or three ch
 
 # Installing the Theme
 # User Side
-Create a file called `main.css` in `/var/www/pterodactyl/resources/scripts`
+Create a file called `main.css` in `/var/www/pterodactyl/resources/scripts` by doing 
+
+```js
+nano /var/www/pterodactyl/resources/scripts/main.css
+```
 
 In that file put this text
 ```css
