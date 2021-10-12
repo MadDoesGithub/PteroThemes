@@ -119,4 +119,4 @@ This theme is a recolor of the panel that you can edit, more information here
 ![Preview](./preview/Dracula.png)
 ![Preview](./preview/Dracula2.png)
 
-## If you have suggestions, DM me at Mad#2007
+## If you have suggestions, DM me at Mad#7010
